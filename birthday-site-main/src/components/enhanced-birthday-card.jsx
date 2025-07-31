@@ -242,7 +242,7 @@ export default function EnhancedBirthdayCard() {
                 <Heart className="w-16 h-16 mx-auto mb-4 fill-white" />
               </motion.div>
               
-              <h2 className="text-3xl font-bold mb-4">I Love You! 💖</h2>
+              <h2 className="text-3xl font-bold mb-4">I Admire You Siri! 💖</h2>
               
               <p className="text-lg mb-6 leading-relaxed">
                 Thank you for being the most wonderful person in my life. 

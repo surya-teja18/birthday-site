@@ -20,7 +20,7 @@ export default function BirthdayCelebration() {
         }}
         className="relative mb-2"
       >
-        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-2">Happy Birthday!</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-2">Happy Birthday Siriiii!</h1>
         <div className="flex justify-center gap-3">
           <Cake className="w-8 h-8 text-pink-500" />
           <Sparkles className="w-8 h-8 text-yellow-500" />
