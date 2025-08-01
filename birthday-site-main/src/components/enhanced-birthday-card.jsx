@@ -12,7 +12,7 @@ export default function EnhancedBirthdayCard() {
 
   const pages = [
     {
-      title: "Happy Birthday! 🎉",
+      title: "Happy Birthday Siri! 🎉",
       content: "To the most amazing person in my life...",
       icon: Crown,
       color: "from-pink-400 to-purple-500"
@@ -31,7 +31,7 @@ export default function EnhancedBirthdayCard() {
     },
     {
       title: "Forever & Always 💕",
-      content: "I promise to love you more with each passing day. You're not just my love, you're my best friend, my soulmate, my everything.",
+      content: "You must be an algorithm, because you keep sorting my thoughts Always",
       icon: Heart,
       color: "from-rose-400 to-pink-500"
     }
@@ -269,7 +269,7 @@ export default function EnhancedBirthdayCard() {
               </div>
               
               <p className="text-xl font-semibold">
-                Happy Birthday, my love! 🎂✨
+                Happy Birthday Topper! 🎂✨
               </p>
             </div>
           </motion.div>
